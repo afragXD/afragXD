@@ -1,7 +1,6 @@
 <h3 align="center">Hi there 👋 </h3>
-
-<p align="center">I'm young developer from Taganrog. I'm working on some web-services and android client-side applications. </p>
 <!--
+<p align="center">I'm young developer from Taganrog. I'm working on some web-services and android client-side applications. </p>
 <p align="center">Student of the Southern Federal University</p>
 -->
 
