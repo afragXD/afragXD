@@ -1,7 +1,9 @@
 <h3 align="center">Hi there 👋 </h3>
 
 <p align="center">I'm young developer from Taganrog. I'm working on some web-services and android client-side applications. </p>
+<!--
 <p align="center">Student of the Southern Federal University</p>
+-->
 
 <p align="center">
     <img width="500" src="https://github.com/afragXD/afragXD/blob/main/assets/lain_me.gif" alt="Main gif">
